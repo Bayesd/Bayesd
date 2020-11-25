@@ -28,7 +28,7 @@
 ### ☕ Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/leo-m%C3%B6ller-187192138//)
 
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+![picture](https://github.com/Bayesd/Bayesd/blob/main/VHS-Disc.gif)
 
 
 
