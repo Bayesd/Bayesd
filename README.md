@@ -26,7 +26,7 @@
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=Bayesd&show_icons=true&hide_border=true)
 
 ### ☕ Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/leo-m%C3%B6ller-187192138//)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](www.linkedin.com/in/leo-möller)
 
 ![picture](https://github.com/Bayesd/Bayesd/blob/main/VHS%20disc%206%20del.gif)
 
