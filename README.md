@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and Linux
 
 ### ⚡ Technologies
-  - Basic misunderstanding **Java**
+  - Basic misunderstanding in: **Java, Python**
   
  [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)](https://github.com/deskavaenkelt) 
 
