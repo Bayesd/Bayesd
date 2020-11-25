@@ -6,6 +6,7 @@
   - Basic misunderstanding in: **Java, Python**
   
  [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)](https://github.com/Bayesd) 
+ [![Python](https://img.shields.io/badge/Python-brightgreen?style=flat&logo=python&logoColor=white)](https://github.com/Bayesd) 
 
 [![Git](https://img.shields.io/badge/-Git-gray?style=flat&logo=git)](https://github.com/Bayesd) 
 [![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github)](https://github.com/Bayesd)
